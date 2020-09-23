@@ -2,4 +2,4 @@ Camilo Lopez 29 años
 
 nacio en giron santader
 
-hablaremos de codigo fuente
+hablaremos de codigo fuente y sus variables 
